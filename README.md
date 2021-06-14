@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * asdf install ruby 2.7.2
+* gem install rails
+* bundle install
